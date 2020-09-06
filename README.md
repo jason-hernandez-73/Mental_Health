@@ -71,8 +71,8 @@ When we look at household income as the predicted variable, household income is 
 
 
 ## Authors
-* [Jason Hernandez] (https://github.com/jason-hernandez-73)
-* [Weiqi Liang (Vicky)] (https://github.com/liangweiqi2)
+* [Jason Hernandez](https://github.com/jason-hernandez-73)
+* [Weiqi Liang (Vicky)](https://github.com/liangweiqi2)
 
 ## Acknowledgments
 
