@@ -1,6 +1,6 @@
-# Machine Learning - How does Unemployment related to Mental illness?
+# Machine Learning - How does Unemployment relate to Mental illness?
 
-This project tries to examine whether there are any predicted variables that could impact mental illness such as income. We first use the numeric matrix to pick out the more related variables on mental illess, then we build machines learning models like decision tree and random foreset to find out the most important variable. 
+This project tries to examine whether there are any predicted variables that could impact mental illness such as income. We first use the numeric matrix to pick out the more related variables on mental illess, then we build machine learning models like decision tree and random foreset to find out the most important variable. 
 
 ## Getting Started
 
@@ -62,7 +62,7 @@ sorted(zip(rf.feature_importances_,xd_df),reverse=True)
 
 ### Conclusion
 
-When we look at household income as the predicted variable, household income is not very predictable; even narrowing it down to just the most relevant columns still resulted in little predictive power.The only highly correlated data relative to factors likely to affect income was the obvious: mental illness, disability, and welfare all predicted against being employed!
+When we look at household income as the predicted variable, household income is not very predictable; even narrowing it down to just the most relevant columns still resulted in little predictive power. The only highly correlated data relative to factors likely to affect income was the obvious: mental illness, disability, and welfare all predicted against being employed!
 
 ## Built With
 
